@@ -46,4 +46,4 @@ The **Doctor Appointment System** allows:
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/YourUsername/doctor-appointment-app.git
+git clone https://github.com/Dev-Farhan/doctor-appointment-app.git
